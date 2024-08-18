@@ -19,7 +19,7 @@ title: Home # the main title
 tagline: Just a place to put my thoughts and ideas. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Caleb's Personal Page for Projects and interesting topics
+  Personal Page for Projects and interesting topics
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,8 +28,7 @@ url: "https://cfinigan.com"
 github:
   username: CalebFIN # change to your github username
 
-twitter:
-  username: Caleb_2825 # change to your twitter username
+ # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +37,7 @@ social:
   email: github@cfinigan.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/caleb_2825 # change to your twitter homepage
+    # change to your twitter homepage
     - https://github.com/CalebFIN # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
