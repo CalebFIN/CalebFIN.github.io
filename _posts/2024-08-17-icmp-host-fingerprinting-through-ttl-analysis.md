@@ -5,8 +5,6 @@ categories: [Networking, Tutorial]
 tags: [icmp, ttl, networking]
 ---
 
-# ICMP Host Fingerprinting Through TTL Analysis
-
 ### ICMP isn’t just for ping and traceroute; it’s also a valuable tool in security research.
 
 - **TTL (Time to Live)**: A field in the IP header that indicates how many hops (routers) a packet can traverse before being discarded.
