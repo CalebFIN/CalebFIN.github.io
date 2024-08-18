@@ -1,9 +1,8 @@
 ---
 title: ICMP Host Fingerprinting Through TTL Analysis
-author: Caleb
-date: 2024-08-17 19:37:30 -0600
-categories: [networking]
-tags: [icmp]
+date: 2024-08-17 18:37:30 -0500
+categories: [Networking, Tutorial]
+tags: [icmp, ttl, networking]
 ---
 
 When diving deep into the nuts and bolts of network protocols, ICMP (Internet Control Message Protocol) stands out as an interesting topic. While it's often just seen as the backbone for commands like `ping` and `traceroute`, ICMP has hidden depths that can be incredibly useful for network diagnostics and even security research. One fascinating aspect is how analyzing the TTL (Time to Live) value in ICMP packets can help identify the type of host or device you're interacting with.
