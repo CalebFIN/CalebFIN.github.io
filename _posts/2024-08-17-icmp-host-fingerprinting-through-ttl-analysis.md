@@ -2,7 +2,7 @@
 title: ICMP Host Fingerprinting Through TTL Analysis
 author: Caleb
 date: 2024-08-17 19:37:30 -0500
-categories: [Networking]
+categories: [networking]
 tags: [icmp]
 ---
 
