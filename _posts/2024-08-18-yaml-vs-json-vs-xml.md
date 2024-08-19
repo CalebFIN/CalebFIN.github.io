@@ -1,19 +1,3 @@
-<!--
-Copyright 2024 Caleb Finigan
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
--->
-
 ---
 title: YAML vs JSON vs XML
 date: 2024-08-18 17:30:00 -0500
@@ -66,3 +50,6 @@ Data within these formats share several common traits:
 - **Compact**: YAML files are often smaller and more straightforward than their JSON or XML counterparts, making them ideal for configuration files.
 - **Flexible**: YAML's syntax allows for easy editing and error tolerance, making it a favorite for DevOps and configuration management.
 
+
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
