@@ -49,5 +49,3 @@ Data within these formats share several common traits:
 - **Highly Readable**: YAML (YAML Ain't Markup Language) is designed to be human-readable, using indentation to define structure.
 - **Compact**: YAML files are often smaller and more straightforward than their JSON or XML counterparts, making them ideal for configuration files.
 - **Flexible**: YAML's syntax allows for easy editing and error tolerance, making it a favorite for DevOps and configuration management.
----
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/CalebFIN/CalebFIN.github.io/blob/main/LICENSE)
