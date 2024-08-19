@@ -19,18 +19,18 @@ Data within these formats share several common traits:
 
 ## Feature Comparison
 
+
 | Feature                | YAML                                  | JSON                                      | XML                                           |
 |------------------------|---------------------------------------|-------------------------------------------|-----------------------------------------------|
-| **Human Readability**  | Very readable                         | Readable                                  | Less readable due to verbose syntax           |
-| **Data Formats**       | Supports strings, numbers, lists, and associative arrays | Supports objects, arrays, strings, numbers, booleans, and null | Supports a wide range of data types through schemas |
-| **Comments**           | Supports comments                     | Does not support comments                 | Supports comments                             |
+| **Readability**        | Very readable                         | Readable                                  | Less readable; verbose syntax                 |
+| **Data Types**         | Strings, numbers, lists, associative arrays | Objects, arrays, strings, numbers, booleans, null | Wide range via schemas                       |
+| **Comments**           | Supported                             | Not supported                             | Supported                                     |
 | **Hierarchy**          | Indentation                           | Braces and brackets                       | Tags and attributes                           |
-| **File Extension**     | `.yaml` or `.yml`                     | `.json`                                   | `.xml`                                        |
-| **Support for Metadata** | Limited support through tags         | No direct support                         | Extensive support through attributes and namespaces |
-| **Parsing**            | Generally requires external libraries (though widely available) | Native support in most programming languages | Requires external libraries (though widely available) |
-| **APIs and Config Files** | Commonly used in configuration files and less often in APIs | Widely used in web APIs                    | Used in legacy systems, SOAP APIs, and configurations where metadata is important |
-| **Error Tolerance**    | More tolerant due to its readability and flexibility | Less tolerant to errors; strict syntax    | Less tolerant; strict syntax but can be more complex to parse correctly |
-| **Use Cases**          | Configuration files, simpler data serialization | Web APIs, data interchange between server and web applications | Complex data structures, document markup, legacy systems |
+| **Extension**          | `.yaml` or `.yml`                     | `.json`                                   | `.xml`                                        |
+| **Metadata**           | Limited via tags                      | No direct support                         | Extensive via attributes/namespaces           |
+| **Parsing**            | Requires libraries                    | Native in most languages                  | Requires libraries                            |
+| **Common Use Cases**   | Config files, simple data             | Web APIs, data exchange                   | Complex structures, legacy systems            |
+| **Error Tolerance**    | More tolerant, flexible               | Less tolerant, strict syntax              | Less tolerant, strict syntax                  |
 
 ## XML
 
@@ -49,8 +49,5 @@ Data within these formats share several common traits:
 - **Highly Readable**: YAML (YAML Ain't Markup Language) is designed to be human-readable, using indentation to define structure.
 - **Compact**: YAML files are often smaller and more straightforward than their JSON or XML counterparts, making them ideal for configuration files.
 - **Flexible**: YAML's syntax allows for easy editing and error tolerance, making it a favorite for DevOps and configuration management.
-
-
-
-
+---
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/CalebFIN/CalebFIN.github.io/blob/main/LICENSE)
