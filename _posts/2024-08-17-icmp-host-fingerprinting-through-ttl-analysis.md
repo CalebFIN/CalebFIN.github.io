@@ -75,4 +75,5 @@ Original TTL = 118 + 10 = 128
 - In this case, the original TTL is likely **128**, indicating the host is probably running a Windows-based system.
 
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/CalebFIN/CalebFIN.github.io/blob/main/LICENSE)
