@@ -1,8 +1,9 @@
+---
 title: Giving AI Total Access To Bash
 date: 2024-08-20 14:42:00 -0500
 categories: [Development, Automation]
 tags: [bash, ai, automation, python]
-
+---
 
 I decided to experiment with giving a language model control over my Bash CLI. Here's what I aimed to achieve:
 
