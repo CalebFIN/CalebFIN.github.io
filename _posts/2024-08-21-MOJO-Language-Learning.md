@@ -5,7 +5,7 @@ categories: [development, mojo]
 tags: [mojo, python]
 ---
 
-I’ve recently started experimenting with a newer programming language called Mojo. As a Python developer, I was curious about what Mojo could offer and how it might solve some of the issues we commonly face in Python. This post documents my journey as I learn Mojo, and my first project to get started a simple Debt Payoff Calculator.
+I’ve recently started experimenting with a newer programming language called Mojo. As a Python developer, I was curious about what Mojo could offer and how it might solve some of the issues we commonly face in Python. This post documents my journey as I learn Mojo, and for my first project, a simple Debt Payoff Calculator.
 
 ## Initial Thoughts and Challenges
 Mojo is an interesting language that shows promise in addressing some of the limitations of Python, especially its slowness. However, since it is still in its early development, documentation is limited and articles on SourceForge are scarce.
