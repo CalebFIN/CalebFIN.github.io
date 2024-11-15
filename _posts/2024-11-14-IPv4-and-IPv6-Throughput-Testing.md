@@ -372,5 +372,5 @@ The quick benchmark tests provide a snapshot of the network performance across s
 - **Analyzing Jitter and Packet Loss:** Beyond bandwidth, factors like jitter and packet loss significantly impact network performance, especially for real-time applications.
 - **Implementing Error Handling and Retries:** Enhancing the script with robust error handling and retry mechanisms improves reliability.
 - **Support for Additional Protocols:** Including tests for UDP and other protocols can provide a more complete performance analysis.
-- **Advanced Statistical Analysis:** Calculating statistics like variance and standard deviation can offer deeper insights into network performance variability.
+
 ---
