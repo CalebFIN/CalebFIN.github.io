@@ -369,9 +369,13 @@ The quick benchmark tests provide a snapshot of the network performance across s
 
 There's room for further exploration, such as:
 
-- **Testing at Different Times:** Network performance can vary throughout the day.
-
-- **Including More Servers:** Expanding the list of servers could provide a broader view.
-
-- **Analyzing Latency and Jitter:** Beyond bandwidth, factors like latency and jitter impact network performance.
+- **Auto-Updating Server List:** Implementing a mechanism to automatically fetch and update the list of available iPerf servers ensures tests are always current.
+- **Measuring Latency and DNS Resolution Times:** Incorporating latency measurements and DNS lookup times provides a more comprehensive view of network performance.
+- **Analyzing Jitter and Packet Loss:** Beyond bandwidth, factors like jitter and packet loss significantly impact network performance, especially for real-time applications.
+- **Implementing Error Handling and Retries:** Enhancing the script with robust error handling and retry mechanisms improves reliability.
+- **Visualizing Data:** Creating graphs and charts to visualize bandwidth, latency, and other metrics can make the report more insightful.
+- **Parallel Execution of Tests:** Running tests concurrently can reduce overall testing time and simulate real-world network load.
+- **Support for Additional Protocols:** Including tests for UDP and other protocols can provide a more complete performance analysis.
+- **Configurable Parameters:** Allowing users to set parameters via configuration files or command-line arguments increases flexibility.
+- **Advanced Statistical Analysis:** Calculating statistics like variance and standard deviation can offer deeper insights into network performance variability.
 ---
