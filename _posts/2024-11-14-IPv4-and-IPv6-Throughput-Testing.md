@@ -12,8 +12,8 @@ Recently, I conducted an experiment to compare download speeds when using IPv4 v
 
 For this quick test, I used `curl` to download a 1GB test file from Tele2's speed test server. I forced the download to occur over both IPv4 and IPv6 to see if there was any difference in download speeds. Here's how I set it up:
 
-```cmd
-B:\>curl -6 http://speedtest.tele2.net/1GB.zip -o tempfile6
+```bash
+curl -6 http://speedtest.tele2.net/1GB.zip -o tempfile6
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 1024M  100 1024M    0     0  6210k      0  0:02:48  0:02:48 --:--:-- 8125k
@@ -21,8 +21,8 @@ B:\>curl -6 http://speedtest.tele2.net/1GB.zip -o tempfile6
 - **Total Download Time:** Approximately 2 minutes and 48 seconds
 - **Average Speed:** Around 6.2 MB/s, peaking at 8.1 MB/s
 
-```cmd
-B:\>curl -4 http://speedtest.tele2.net/1GB.zip -o ipv4temp
+```bash
+curl -4 http://speedtest.tele2.net/1GB.zip -o ipv4temp
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 1024M  100 1024M    0     0  4198k      0  0:04:09  0:04:09 --:--:-- 12.4M
@@ -51,7 +51,7 @@ I conducted various tests using both IPv4 and IPv6, including:
 - **Multi-Port Tests:** Utilizing multiple ports to test simultaneous connections.
 
 
-```cmd
+```bash
 iperf3 -4 -c speedtest.dal13.us.leaseweb.net -p 5201 -P 1
 iperf3 -6 -c speedtest.dal13.us.leaseweb.net -p 5201 -P 1
 iperf3 -4 -c speedtest.dal13.us.leaseweb.net -p 5201 -P 4
