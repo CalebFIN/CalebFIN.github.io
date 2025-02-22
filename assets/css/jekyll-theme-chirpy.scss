@@ -18,3 +18,21 @@
   }
 }
 
+.certifications {
+  display: flex;        /* Put items side by side */
+  flex-wrap: wrap;      /* Allow wrapping on smaller screens */
+  align-items: flex-start;
+  gap: 1.5rem;          /* Spacing between badges */
+  margin-bottom: 2rem;  /* Some space after the section */
+}
+
+.cert-badge {
+  width: 128px;         /* Consistent width/height for the HE.NET badge */
+  height: 128px;
+  object-fit: contain;  /* Ensures the image isn’t distorted */
+}
+
+.credly-badges > div {
+  display: inline-block; /* Keep Credly badges side by side */
+  margin-right: 1rem;    /* Optional extra spacing */
+}
