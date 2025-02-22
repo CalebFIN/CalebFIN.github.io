@@ -20,7 +20,6 @@ So far, I've focused on Networking, OSINT, Python, and Linux, but I'm eager to e
 
 
 ## Certifications
-## Certifications
 
 <div class="certifications">
   <!-- HE.NET IPv6 Badge -->
