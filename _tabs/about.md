@@ -20,6 +20,7 @@ So far, I've focused on Networking, OSINT, Python, and Linux, but I'm eager to e
 
 
 ## Certifications
+## Certifications
 
 <div class="certifications">
   <!-- HE.NET IPv6 Badge -->
@@ -43,8 +44,15 @@ So far, I've focused on Networking, OSINT, Python, and Linux, but I'm eager to e
       data-share-badge-id="cc0b6337-f283-4daf-9dbb-e3260f0387eb"
       data-share-badge-host="https://www.credly.com"
     ></div>
+    <div
+      data-iframe-width="128"
+      data-iframe-height="128"
+      data-share-badge-id="c2447e8b-8dae-4f59-b975-d43fd53038ac"
+      data-share-badge-host="https://www.credly.com"
+    ></div>
   </div>
 </div>
+
 <script
   type="text/javascript"
   async
