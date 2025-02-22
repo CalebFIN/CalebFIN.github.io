@@ -7,17 +7,18 @@
 {%- endif -%}
 ';
 
-/* append your custom style below */
 /* Example custom styles */
 @media (prefers-color-scheme: dark) {
-  html:not([data-mode]), html[data-mode=dark] {
-    --main-bg: #0b0e14; /* Dark mode background color */
+  body:not([data-mode]), body[data-mode=dark] {
+    --main-bg: #0b0e14; /* Dark mode background */
     --mask-bg: rgb(68, 69, 70);
     --text-color: rgb(235, 239, 243);
-
+    background-color: var(--main-bg); /* Apply background color */
+    color: var(--text-color); /* Text color consistency */
   }
 }
 
+/* Certification badge styles */
 .certifications {
   display: flex;
   flex-wrap: wrap;
@@ -44,3 +45,30 @@
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
+/* Badge container adjustments */
+#badge {
+  background-color: transparent;
+  display: inline-block;
+  padding: 0; /* Remove extra padding */
+}
+
+#badge img {
+  border: none;
+  background-color: transparent;
+  width: 105px;
+  height: 105px;
+}
+
+#provided {
+  background-color: transparent;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: var(--text-color);
+}
+
+/* Optional: universal badge container */
+.badge-container {
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: var(--mask-bg); /* Subtle contrast */
+}
