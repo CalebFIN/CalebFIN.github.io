@@ -31,8 +31,8 @@ So far, I've focused on Networking, OSINT, Python, and Linux, but I'm eager to e
 
   <!-- Credly Badges -->
   <div class="credly-badges">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bd0bebaf-beb1-4e9e-9abc-0689fe4b5b6d" data-share-badge-host="https://www.credly.com"></div>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc0b6337-f283-4daf-9dbb-e3260f0387eb" data-share-badge-host="https://www.credly.com"></div>
+    <div data-iframe-width="128" data-iframe-height="128" data-share-badge-id="bd0bebaf-beb1-4e9e-9abc-0689fe4b5b6d" data-share-badge-host="https://www.credly.com"></div>
+    <div data-iframe-width="128" data-iframe-height="128" data-share-badge-id="cc0b6337-f283-4daf-9dbb-e3260f0387eb" data-share-badge-host="https://www.credly.com"></div>
   </div>
 </div>
 
