@@ -14,8 +14,16 @@ I work in networking, but I've recently started exploring DevOps, Development, a
 
 - I've noticed that small issues can take up a lot of time, so I created this blog to share interesting discoveries and time-saving guides.
 - This blog also serves as a place to document my overall learning journey.
-- Also to share topics I find interesting
-
+- Also to share topics I find interesting.
 
 So far, I've focused on Networking, OSINT, Python, and Linux, but I'm eager to expand my skills as I continue to learn.
 
+## Certifications
+
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=calebfinigan&amp;badge=1" style="border: 0; width: 128px; height: 128px" alt="IPv6 Certification Badge for calebfinigan">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bd0bebaf-beb1-4e9e-9abc-0689fe4b5b6d" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc0b6337-f283-4daf-9dbb-e3260f0387eb" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
