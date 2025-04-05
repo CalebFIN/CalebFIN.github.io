@@ -43,4 +43,4 @@ Eventually, I’d like to attempt **desoldering the bad chip** and replacing it 
 
 ---
 
-For anyone doing homelab on a budget, this kind of **hardware revival trick** is worth keeping in your toolbox. Even if it’s temporary, getting enterprise-grade gear for free—and bringing it back to life with a little DIY hackery—feels like a huge win.
+For anyone doing homelab on a budget, this kind of **hardware revival trick** is worth keeping in your toolbox. 
