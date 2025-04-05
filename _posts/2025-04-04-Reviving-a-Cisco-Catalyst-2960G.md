@@ -17,7 +17,7 @@ One of the coolest wins for my homelab recently was scoring a Cisco Catalyst 296
 
 ![Cisco Catalyst 2960G Front Panel](assets/img/media/IMG_3157.jpg)
 
-When I first powered it on, all the indicator lights looked good—except the top "SYS" light, which stayed solid amber. Normally, this means there's a hardware fault, so I initially suspected a bad power supply. But after some digging, I discovered that many others had seen this exact issue, and it was often caused by a failed RAM chip.
+When I first powered it on, all the indicator lights looked good—except the top "SYST" light, which stayed solid amber. Normally, this means there's a hardware fault, so I initially suspected a bad power supply. But after some digging, I discovered that many others had seen this exact issue, and it was often caused by a failed RAM chip.
 
 ---
 
