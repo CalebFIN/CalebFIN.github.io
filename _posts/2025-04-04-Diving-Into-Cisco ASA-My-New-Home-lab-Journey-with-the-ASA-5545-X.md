@@ -19,7 +19,7 @@ Interestingly, the ASA came with **perpetual licenses** already loaded on it. Wh
 Currently, I’ve got the ASA **plugged into a Cisco 2960 switch**, which is connected to my main internet line. I was trying to get ADSM working but ran into issues—likely due to licensing restrictions. I’ll troubleshoot that more later.
 
 I’m already considering **modding it to make it quieter**. I cracked it open and noticed it runs with **DDR3 RAM** and a **Xeon processor**, which surprised me in a good way. Right now, I’m looking at quieter **aftermarket fans** (found a few decent ones on Newegg) or possibly building a **custom enclosure** to reduce the noise and make it more indoor-friendly.
-![ASA Inside](assets/img/media/IMG_3330_1.jpg)
+![ASA Inside](assets/img/media/IMG_3330.jpg)
 For now, I’m only using **one power supply** since I don’t need redundancy in a homelab setting, and I’d rather not deal with extra heat and power draw.
 
 Eventually, I plan to **run my VoIP setup through it**. I’ve got a **Yealink IP phone** and a **Raspberry Pi** acting as my **Session Border Controller (SBC)**. That SBC connects to my **3CX cloud PBX**, where I have my SIP trunk registered. 
