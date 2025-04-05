@@ -13,7 +13,7 @@ tags:
 
 ## Reviving a Cisco Catalyst 2960G
 
-One of the coolest wins for my homelab recently was scoring a Cisco Catalyst 2960G switch. The reason it was free? It wouldn't boot.
+One of the coolest wins for my homelab recently was getting a failed a Cisco Catalyst 2960G switch.
 
 ![Cisco Catalyst 2960G Front Panel](assets/img/media/IMG_3157.jpg)
 
