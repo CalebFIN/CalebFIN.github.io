@@ -1,5 +1,5 @@
 ---
-title: "Reviving a Cisco Catalyst 2960G: Free Lab Gear with a Heat Gun Hack"
+title: "Reviving a Cisco Catalyst 2960G"
 date: 2025-04-04 23:00:00 -0500
 categories:
   - Cisco
