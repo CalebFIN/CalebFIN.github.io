@@ -118,5 +118,8 @@ This script, adjusted for my device’s regulatory domain, excludes unsupported 
 
 With the channel hopper active, capturing the Wi-Fi traffic was straightforward. To capture 5 GHz, I used interface mon1.  
 ![Wireshark SSH](assets/img/media/tcpdumpsettings.png)
+The screenshot above shows the SSH remote capture configuration in Wireshark. I selected `mon1` as the remote interface and used `tcpdump` as the capture method with `No promiscuous mode` enabled.
+
+Once started, Wireshark begins displaying the live packet capture streamed from the router over SSH.
 
 ![Wireshark Capture](assets/img/media/Capture.png)
