@@ -32,8 +32,11 @@ For home users it's free with the base set of features.
 **Step 2: Deploying the Connector**
 I dropped the Connector on my Raspberry Pi (which is always on anyway). It acts as a bridge between my home network and Twingate’s access point. They’ve got Docker containers and CLI scripts that make deployment super quick — it honestly took just a few minutes.
 ![Deploying](assets/img/media/IMG1234.png)
-**Step 4: Installing the Client** Finally, I installed the Twingate client on my phone and can now reach my home network from anywhere.
+**Step 4: Installing the Client** Finally, I installed the Twingate client on my phone and connected
+
 ![Client](assets/img/media/RandomImagename.png)
+
+
 ### Benefits I’ve Noticed
 
 - **No open ports**: I didn’t need to modify my router or expose any services to the web.
